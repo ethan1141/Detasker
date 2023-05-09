@@ -16,6 +16,10 @@ Open [http://localhost:3737](http://localhost:3737) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
+# Live Demo
+
+[Domo](https://detasker.xyz/) or https://detasker.xyz/
+
 ## Learn More
 
 To learn more about Crossbell and Next.js, take a look at the following resources:
